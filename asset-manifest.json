@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Heroes_Redux/static/css/main.7ea5aaab.chunk.css",
+    "main.js": "/Heroes_Redux/static/js/main.1c5006e5.chunk.js",
+    "main.js.map": "/Heroes_Redux/static/js/main.1c5006e5.chunk.js.map",
+    "runtime-main.js": "/Heroes_Redux/static/js/runtime-main.b6254f53.js",
+    "runtime-main.js.map": "/Heroes_Redux/static/js/runtime-main.b6254f53.js.map",
+    "static/css/2.3c19f40d.chunk.css": "/Heroes_Redux/static/css/2.3c19f40d.chunk.css",
+    "static/js/2.9641b1a0.chunk.js": "/Heroes_Redux/static/js/2.9641b1a0.chunk.js",
+    "static/js/2.9641b1a0.chunk.js.map": "/Heroes_Redux/static/js/2.9641b1a0.chunk.js.map",
+    "index.html": "/Heroes_Redux/index.html",
+    "static/css/2.3c19f40d.chunk.css.map": "/Heroes_Redux/static/css/2.3c19f40d.chunk.css.map",
+    "static/css/main.7ea5aaab.chunk.css.map": "/Heroes_Redux/static/css/main.7ea5aaab.chunk.css.map",
+    "static/js/2.9641b1a0.chunk.js.LICENSE.txt": "/Heroes_Redux/static/js/2.9641b1a0.chunk.js.LICENSE.txt",
+    "static/media/app.scss": "/Heroes_Redux/static/media/hero_bg.0540b794.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6254f53.js",
+    "static/css/2.3c19f40d.chunk.css",
+    "static/js/2.9641b1a0.chunk.js",
+    "static/css/main.7ea5aaab.chunk.css",
+    "static/js/main.1c5006e5.chunk.js"
+  ]
+}
