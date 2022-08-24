@@ -1,0 +1,49 @@
+{
+  "heroes": [
+    {
+      "name": "Морской владыка",
+      "description": "Управление водой ",
+      "element": "water",
+      "id": 5
+    },
+    {
+      "id": "747b4962-2e08-4182-a53a-dea55cd5f63e",
+      "name": "Первый игрок",
+      "description": "Самый быстрый !",
+      "element": "earth"
+    },
+    {
+      "id": "76d51b1c-506f-400b-aa92-e0abf0839abf",
+      "name": "Огонёк ",
+      "description": "Владение огнём , способность управлять ",
+      "element": "fire"
+    }
+  ],
+  "filters": [
+    {
+      "name": "all",
+      "label": "Все",
+      "className": "btn-outline-dark"
+    },
+    {
+      "name": "fire",
+      "label": "Огонь",
+      "className": "btn-danger"
+    },
+    {
+      "name": "water",
+      "label": "Вода",
+      "className": "btn-primary"
+    },
+    {
+      "name": "wind",
+      "label": "Ветер",
+      "className": "btn-success"
+    },
+    {
+      "name": "earth",
+      "label": "Земля",
+      "className": "btn-secondary"
+    }
+  ]
+}
